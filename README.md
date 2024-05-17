@@ -3,8 +3,8 @@ It is a simple To-Do List.
 </br></br>
 
 ### Use of the Project:
-
 <p>TODO List are the lists that we generally use to maintain our day to day tasks or list of everything that we have to do. It is helpful in planning our daily schedules.</p>
+</br>
 
 ## 💻Tech Stack
 <br>
